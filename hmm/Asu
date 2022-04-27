@@ -1,0 +1,2 @@
+wget https://github.com/xero/figlet-fonts
+chmod +x figlet-font
