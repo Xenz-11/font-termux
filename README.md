@@ -11,5 +11,5 @@ wget https://raw.githubusercontent.com/Xenz-11/font-termux/main/xenz
 ```
 > Cara Menjalankan
 ```
-toilet -f xenz.1
+toilet -f xenz
 ```
